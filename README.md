@@ -24,4 +24,4 @@ You can verify the installed version of Python with the following command:
 ### **Trobleshooting section**
 In the rare scenario where the user sets the maximum possible number of bombs, winning becomes possible with a single flag. It is assumed that the player is aware of this process, understanding that all bombs are already identified. For an enhanced gaming experience, consider adjusting the mine count to maintain an optimal level of challenge.
 
-[GUI version of mineswepper](https://github.com/JakubJus/Minesweeper/tree/GUI-Mineswepper)
+[GUI version of mineswepper][(https://github.com/JakubJus/Minesweeper)
